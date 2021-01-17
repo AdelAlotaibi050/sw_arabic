@@ -1,2 +1,2 @@
 # sw_arabic
-simple blog using bootstrap4
+simple blog using bootstrap 4
